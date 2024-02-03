@@ -23,5 +23,5 @@ Instead of hard coding an exchange rate we have added a module that uses Switchb
 - [x] make LTV and admin fee dynamic and set by the admin with value checks
 - [x] improve oracle price assurance (timestamp and value guard)
 - [x] whitelist oracle feeds
-- [] test all functions + including error cases
-- [] call all fns via PTBs
+- [ ] test all functions + including error cases
+- [ ] call all fns via PTBs
